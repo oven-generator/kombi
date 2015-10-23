@@ -1,4 +1,6 @@
 # kombi
-![Kombi Oven Generator](https://github.com/oven-generator/kombi/raw/master/kombi.png "Kombi Oven Generator")
+<marquee>
+    <img src="https://github.com/oven-generator/kombi/raw/master/kombi.png" alt="Kombi Oven Generator"/>
+</marquee>
 
 Kombi Oven Generator
